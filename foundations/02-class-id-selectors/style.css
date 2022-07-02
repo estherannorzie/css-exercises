@@ -1,4 +1,4 @@
-.pink-background {
+.odd-elements {
   background-color: #F2B6D9;
 }
 
@@ -7,7 +7,7 @@
   font-size: 36px;
 }
 
-.pink-background.twenty-four-font-size {
+.odd-elements.twenty-four-font-size {
   font-size: 24px;
 }
 
