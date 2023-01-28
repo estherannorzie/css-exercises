@@ -13,6 +13,8 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
+  justify-content: space-between;
+  padding: 8px;
 }
 
 .profile-image {
@@ -42,8 +44,19 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
+  padding-right: 16px;
 }
 
 ul {
   list-style-type: none;
+  display: flex;
+  
+}
+.logo-links {
+  display: flex;
+}
+
+.notifications-prfimage {
+  display: flex;
+  align-items: center;
 }
