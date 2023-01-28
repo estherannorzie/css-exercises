@@ -44,7 +44,7 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
-  padding-right: 16px;
+  margin-right: 16px;
 }
 
 ul {
@@ -54,6 +54,10 @@ ul {
 }
 .logo-links {
   display: flex;
+}
+
+.notifications {
+  margin-right: 16px;
 }
 
 .notifications-prfimage {
